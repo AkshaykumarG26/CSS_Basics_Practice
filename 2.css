@@ -1,0 +1,71 @@
+/* Element Selector */
+/*
+h1{
+    color: orangered;
+    font-size: 5rem;
+
+}
+
+p{
+    color: gray;
+
+}
+*/
+
+/* Body Selector */
+/*
+body{
+    color: greenyellow; 
+}
+
+h1{
+    color: red; 
+}
+*/
+
+
+
+
+/* ID Selector */
+/*
+#header{
+    color: red;
+    background: yellow;
+    text-align: center;
+}
+
+#footer{
+    color:darkblue;
+    background: yellow;
+    text-align: center;
+}
+*/
+
+/* Class selector */
+/*
+.red{
+    color: red;
+    background: yellow;
+
+}
+
+.green{
+    color: green;
+    background: black;
+}
+*/
+
+/* DIV SPAN */
+/*
+div{
+    color: red;
+    background: yellow;
+}
+
+span{
+    text-transform: uppercase;
+}
+*/
+
+/* Inheritance */
+/* This is in 3.css and 3.html */

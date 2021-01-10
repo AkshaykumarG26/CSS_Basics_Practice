@@ -1,0 +1,14 @@
+/* Inheritance */
+
+body{
+    font-family: monospace;
+    line-height: 1.5em;
+}
+
+div{
+    color: red;
+}
+
+h2{
+    color: green;
+}
