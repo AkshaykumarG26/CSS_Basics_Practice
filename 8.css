@@ -1,0 +1,31 @@
+/* 
+line-height
+letter-spacign
+word-spacing
+text-transform
+text-decoration
+ */
+a{
+    font-size: 40px;
+    text-decoration: none;
+}
+
+h1{
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+
+.one{
+    line-height: 2em;
+    text-decoration: overline;
+}
+
+.two{
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+.three{
+    word-spacing: 20px;
+}
+

@@ -1,0 +1,25 @@
+#first{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+
+#second{
+    color:red;
+    background: yellow;
+    text-align: center;
+
+}
+
+/* color names 140 */
+/* for more details it is available on w3schools as color names */
+
+body{
+    background: rgb(50,50,50);
+}
+
+/* rgba is for background with intensity */
+body{
+    background: rgba(19, 200, 100, 0.1);
+}
